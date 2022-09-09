@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.platform = :ios, "14.0"
   s.name             = 'HJPodTest'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'A short description of HJPodTest.'
 
 # This description is used to generate tags and improve search results.
