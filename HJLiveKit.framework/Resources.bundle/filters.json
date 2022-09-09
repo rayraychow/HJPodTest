@@ -1,0 +1,50 @@
+ [
+     {
+        "image": "https://jravity-1253740179.file.myqcloud.com/jrliveApp/hj/images/link/standard.png",
+        "name": "原图",
+        "type": "standard",
+        "filterName": "standard"
+      },
+      {
+        "image": "https://jravity-1253740179.file.myqcloud.com/jrliveApp/hj/images/link/cerisered.png",
+        "name": "樱红",
+        "type": "cerisered",
+        "filterName": "yinghong"
+      },
+      {
+        "image": "https://jravity-1253740179.file.myqcloud.com/jrliveApp/hj/images/link/whitening.png",
+        "name": "美白",
+        "type": "whitening",
+        "filterName": "white"
+      },
+      {
+        "image": "https://jravity-1253740179.file.myqcloud.com/jrliveApp/hj/images/link/fresher.png",
+        "name": "清新",
+        "type": "fresher",
+        "filterName": "qingxin"
+      },
+      {
+        "image": "https://jravity-1253740179.file.myqcloud.com/jrliveApp/hj/images/link/aestheticism.png",
+        "name": "唯美",
+        "type": "aestheticism",
+        "filterName": "weimei"
+      },
+      {
+        "image": "https://jravity-1253740179.file.myqcloud.com/jrliveApp/hj/images/link/solor.png",
+        "name": "日系",
+        "type": "solor",
+        "filterName": "rixi"
+      },
+      {
+        "image": "https://jravity-1253740179.file.myqcloud.com/jrliveApp/hj/images/link/cool.png",
+        "name": "清凉",
+        "type": "cool",
+        "filterName": "qingliang"
+      },
+      {
+        "image": "https://jravity-1253740179.file.myqcloud.com/jrliveApp/hj/images/link/blues.png",
+        "name": "蓝调",
+        "type": "blues",
+        "filterName": "landiao"
+      }
+]

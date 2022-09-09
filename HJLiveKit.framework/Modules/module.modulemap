@@ -1,0 +1,11 @@
+framework module HJLiveKit {
+  umbrella header "HJLiveKit.h"
+
+  export *
+  module * { export * }
+}
+
+module HJLiveKit.Swift {
+    header "HJLiveKit-Swift.h"
+    requires objc
+}
