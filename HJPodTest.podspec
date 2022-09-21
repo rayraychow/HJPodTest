@@ -39,11 +39,13 @@ TODO: Add long description of the pod here.
     #'Resources' => ['HJPodTest/Classes/HJLiveKit.framework/Resources.bundle']
   #}
 
-  s.public_header_files = 'HJPodTest/Classes/**/*.h'
+  #s.public_header_files = 'HJPodTest/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
+  
+  
   s.dependency "Alamofire"
-  #s.dependency "SDWebImageSwiftUI" 
-  #s.dependency "SDWebImage" 
+  s.dependency "SDWebImageSwiftUI"
+  s.dependency "SDWebImage"
   s.dependency 'SnapKit'
   s.dependency 'GrowingTextView' 
   s.dependency 'Introspect'
@@ -55,12 +57,12 @@ TODO: Add long description of the pod here.
   s.dependency 'Moya' 
   s.dependency 'SwiftyJSON'
   s.dependency 'ObjectMapper'
-  #s.dependency 'StompClientLib'
-  #s.dependency 'SocketRocket'
+  s.dependency 'StompClientLib'
+  s.dependency 'SocketRocket'
   s.dependency 'SwiftDate'
-  #s.dependency 'dsBridge'
+  s.dependency 'dsBridge'
   s.dependency 'TXIMSDK_iOS' 
-  #s.dependency 'JPNavigationController'
+  s.dependency 'JPNavigationController'
   s.dependency 'TXIMSDK_iOS'
   s.dependency 'SwiftHash'
   s.dependency 'HandyJSON'
